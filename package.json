@@ -1,0 +1,30 @@
+{
+    "name": "CtrlMailEnable",
+    "version": "1.0.1",
+    "description": "CtrlMailEnable é um conjunto de funções para gerenciar o MailEnable",
+    "author": "Paloma Macetko <cmacetko@gmail.com>",
+    "main": "index.js",
+    "scripts": {
+        "test": "node tests"
+    },
+    "homepage": "https://github.com/cmacetko/ctrlmailenable",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmacetko/ctrlmailenable"
+    },
+    "bugs": {
+        "url": "https://github.com/cmacetko/ctrlmailenable/issues"
+    },
+    "keywords": [
+        "MailEnable",
+        "MailEnable server",
+		"Listar Contas",
+		"Criar Conta",
+		"Verificar se Conta Existe",
+		"Deletar Conta"
+    ],
+    "dependencies": {
+        "node-powershell": "^4.0.0"
+    }
+}
