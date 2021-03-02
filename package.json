@@ -21,6 +21,7 @@
         "MailEnable server"
     ],
     "dependencies": {
+        "async": "^3.2.0",
         "node-powershell": "^4.0.0"
     }
 }

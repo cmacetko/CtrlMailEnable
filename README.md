@@ -69,10 +69,12 @@ MailEnableCtrl.init().then(function(){
 ### Retorno
 
 ```json
-[
-	"teste1.com",
-	"teste2.com"
-]
+{
+  "cmacetko_teste1.com.br": {
+    "Conta": "cmacetko_teste1.com.br",
+    "Status": "1"
+  }
+}
 ```
 
 ## Verifica se uma Conta Existe
