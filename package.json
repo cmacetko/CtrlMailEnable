@@ -1,6 +1,6 @@
 {
     "name": "ctrlmailenable",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "CtrlMailEnable é um conjunto de funções para gerenciar o MailEnable",
     "author": "Paloma Macetko <cmacetko@gmail.com>",
     "main": "index.js",
