@@ -322,7 +322,7 @@ MailEnableCtrl.init().then(function(){
 });
 ```
 
-## Verificar Status de um E-mail de uma Conta
+## Alterar Status de um E-mail de uma Conta
 
 ### Chamando
 
